@@ -6,7 +6,8 @@
     <meta name="Author" content="Анна Бабич">
     <meta name="Keywords" content="наращивание ногтей,обучение,мастер-класс,маникюр">
     <title></title>
-    <stile>body{
+<style>
+    body{
     margin: 100px 200px;
     border: 100;
     background-image: url("img/Ghb%5Bdfnrf.gif");
@@ -31,7 +32,7 @@ img{
 .new3 {
     margin: auto 150px ;
     }
-    </stile>
+    </style>
 </head>
 <body>
     <h1>Наращивание ногтей. Все виды маникюра.</h1>
